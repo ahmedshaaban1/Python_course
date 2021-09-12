@@ -9,6 +9,12 @@
 ### Lecture 2
 - We discussed deep and shallow copy [3_deep_shallow_copy.py](lectures/3_deep_shallow_copy.py)
 - Details could be found here [3_shallow_and_deep_copy.pdf](lectures/3_shallow_and_deep_copy.pdf)
+### Lecture 3
+- We discussed iteration in Python [4_loop.py](4_loop.py) and we introuduced Xarray package
+- Details could be found here [4_Loops.pdf](lectures/4_Loops.pdf)
+### Lecture 4
+- We discussed lists [5_list_etc.py](5_list_etc.py)
+- Detials could be found here [5_list1.pdf](lectures/5_list1.pdf) and [5_list2.pdf](lectures/6_list1.pdf)
 
 
 
