@@ -14,7 +14,7 @@
 - Details could be found here [4_Loops.pdf](lectures/4_Loops.pdf)
 ### Lecture 4
 - We discussed lists [5_list_etc.py](5_list_etc.py)
-- Detials could be found here [5_list1.pdf](lectures/5_list1.pdf) and [5_list2.pdf](lectures/6_list1.pdf)
+- Detials could be found here [5_list1.pdf](lectures/5_list1.pdf) and [6_list2.pdf](lectures/6_list2.pdf)
 
 
 
