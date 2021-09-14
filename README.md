@@ -1,4 +1,5 @@
 # Python_course
+to donwload any file used wget or wget --secure-protocol=TLSv1_2 link_of_file.
 
 ## lectures 
 ### Lecture 1
