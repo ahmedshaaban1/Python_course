@@ -1,5 +1,7 @@
-# Python_course
-to donwload any file used wget or wget --secure-protocol=TLSv1_2 link_of_file.
+# Python crash course
+- To donwload any file used wget or wget --secure-protocol=TLSv1_2 link_of_file.
+- [link1](https://www.python-course.eu/python3_course.php)
+- [MIT course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/readings/)
 
 ## lectures 
 ### Lecture 1
