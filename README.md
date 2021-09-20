@@ -16,9 +16,11 @@
 - We discussed iteration in Python [4_loop.py](4_loop.py) and we introuduced Xarray package
 - Details could be found here [4_Loops.pdf](lectures/4_Loops.pdf)
 ### Lecture 4
-- We discussed lists [5_list_etc.py](5_list_etc.py), if statement [6_if.py](6_if.py), function [7_function.py](7_function.py)
-- Detials could be found here [5_list1.pdf](lectures/5_list1.pdf) and [6_list2.pdf](lectures/6_list2.pdf), detials on if statement could be found here [7_conditional_statements.pdf](lectures/7_conditional_statements.pdf). Finally function could be learned from here [8_Functions.pdf](lectures/8_Functions.pdf).
+- We discussed lists [5_list_etc.py](5_list_etc.py), if statement [6_if.py](6_if.py) 
+- Detials could be found here [5_list1.pdf](lectures/5_list1.pdf) and [6_list2.pdf](lectures/6_list2.pdf), detials on if statement could be found here [7_conditional_statements.pdf](lectures/7_conditional_statements.pdf). 
 
-
+### Lecture 5
+- We discussed functions [7_function.py](7_function.py).
+- Finally function could be learned from here [8_Functions.pdf](lectures/8_Functions.pdf).
 
 
