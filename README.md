@@ -20,7 +20,7 @@
 - Detials could be found here [5_list1.pdf](lectures/5_list1.pdf) and [6_list2.pdf](lectures/6_list2.pdf), detials on if statement could be found here [7_conditional_statements.pdf](lectures/7_conditional_statements.pdf). 
 
 ### Lecture 5
-- We discussed functions [7_function.py](7_function.py).
-- Finally function could be learned from here [8_Functions.pdf](lectures/8_Functions.pdf).
+- We discussed functions [7_function.py](7_function.py) and ascii files [8_files.py](8_files.py)
+- Finally function could be learned from here [8_Functions.pdf](lectures/8_Functions.pdf) and [11_files.pdf](lectures/11_files.pdf)
 
 
