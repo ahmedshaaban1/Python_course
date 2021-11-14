@@ -7,8 +7,10 @@
 ### Lecture 1
 - We gave a short introductory presentation on what we are going to do in this crash course [lecture1.pptx](lectures/lecture1.pptx). 
 - We discussed variables, arithmatic, and logical operators [1_variable.py](1_variable.py) and [2_operators.py](2_operators.py)
-- Details could be found here: [variable.pdf](https://python-course.eu/python-tutorial/data-types-and-variables.php) and [operators.pdf](https://python-course.eu/python-tutorial/operators.php)
-- Reading assignment [why Python is the next wave in atmospheric data analysis](lectures/why_python_is_the_next_wave_in_earth_sciences_computing.pdf) and [MIT Lecture](https://www.greenteapress.com/thinkpython/thinkCSpy/html/chap02.html)
+- Reading assinment : 
+- [variable.pdf](https://python-course.eu/python-tutorial/data-types-and-variables.php) 
+- [operators.pdf](https://python-course.eu/python-tutorial/operators.php)
+- [why Python is the next wave in atmospheric data analysis](lectures/why_python_is_the_next_wave_in_earth_sciences_computing.pdf) and [MIT Lecture](https://www.greenteapress.com/thinkpython/thinkCSpy/html/chap02.html)
 ### Lecture 2
 - We discussed deep and shallow copy [3_deep_shallow_copy.py](lectures/3_deep_shallow_copy.py)
 - Details could be found here [3_shallow_and_deep_copy.pdf](lectures/3_shallow_and_deep_copy.pdf)
