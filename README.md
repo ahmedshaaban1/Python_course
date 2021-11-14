@@ -8,13 +8,14 @@
 - We gave a short introductory presentation on what we are going to do in this crash course [lecture1.pptx](lectures/lecture1.pptx). 
 - We discussed variables, arithmatic, and logical operators [1_variable.py](1_variable.py) and [2_operators.py](2_operators.py)
 - Reading assinment : 
-- [variables (python-course.eu)](https://python-course.eu/python-tutorial/data-types-and-variables.php) 
-- [operators (python-course.eu)](https://python-course.eu/python-tutorial/operators.php)
-- AMS bulletien [why Python is the next wave in atmospheric data analysis](lectures/why_python_is_the_next_wave_in_earth_sciences_computing.pdf)  
-- [MIT Lecture](https://www.greenteapress.com/thinkpython/thinkCSpy/html/chap02.html)
+1. [variables (python-course.eu)](https://python-course.eu/python-tutorial/data-types-and-variables.php) 
+2. [operators (python-course.eu)](https://python-course.eu/python-tutorial/operators.php)
+3. AMS bulletien [why Python is the next wave in atmospheric data analysis](lectures/why_python_is_the_next_wave_in_earth_sciences_computing.pdf)  
+4. [MIT Lecture](https://www.greenteapress.com/thinkpython/thinkCSpy/html/chap02.html)
 ### Lecture 2
 - We discussed deep and shallow copy [3_deep_shallow_copy.py](lectures/3_deep_shallow_copy.py)
-- Details could be found here [shallow_and_deep_copy (python-course.eu)](https://python-course.eu/python-tutorial/shallow-and-deep-copy.php)
+#### Reading assigment
+1. Details could be found here [shallow_and_deep_copy (python-course.eu)](https://python-course.eu/python-tutorial/shallow-and-deep-copy.php)
 ### Lecture 3
 - We discussed iteration in Python [4_loop.py](4_loop.py) and we introuduced Xarray package
 - Details could be found here [Loops (python-course.eu)](https://python-course.eu/python-tutorial/for-loop.php)
