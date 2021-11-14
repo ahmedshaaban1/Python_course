@@ -22,8 +22,10 @@
   1. [Loops (python-course.eu)](https://python-course.eu/python-tutorial/for-loop.php)
 ### Lecture 4
 - We discussed lists [5_list_etc.py](5_list_etc.py), if statement [6_if.py](6_if.py) 
-- Reading assignment
-  1. [list1 (python-course.eu)](https://python-course.eu/python-tutorial/sequential-data-types.php) and [list2 (python-course.eu)](https://python-course.eu/python-tutorial/list-manipulation.php), detials on if statement could be found here [conditional_statements (python-course.eu)](https://python-course.eu/python-tutorial/conditional-statements.php). 
+- Reading assigntments:
+  1. [list1 (python-course.eu)](https://python-course.eu/python-tutorial/sequential-data-types.php).
+  2. [list2 (python-course.eu)](https://python-course.eu/python-tutorial/list-manipulation.php).
+  3. [conditional_statements (python-course.eu)](https://python-course.eu/python-tutorial/conditional-statements.php). 
 
 ### Lecture 5
 - We discussed functions [7_function.py](7_function.py) and ascii files [8_files.py](8_files.py)
