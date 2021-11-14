@@ -15,20 +15,20 @@
 ### Lecture 2
 - We discussed deep and shallow copy [3_deep_shallow_copy.py](lectures/3_deep_shallow_copy.py)
 - Reading assignment:
-1. Details could be found here [shallow_and_deep_copy (python-course.eu)](https://python-course.eu/python-tutorial/shallow-and-deep-copy.php)
+  1. Details could be found here [shallow_and_deep_copy (python-course.eu)](https://python-course.eu/python-tutorial/shallow-and-deep-copy.php)
 ### Lecture 3
 - We discussed iteration in Python [4_loop.py](4_loop.py) and we introuduced Xarray package.
 - Reading assignment:
-1. [Loops (python-course.eu)](https://python-course.eu/python-tutorial/for-loop.php)
+  1. [Loops (python-course.eu)](https://python-course.eu/python-tutorial/for-loop.php)
 ### Lecture 4
 - We discussed lists [5_list_etc.py](5_list_etc.py), if statement [6_if.py](6_if.py) 
 - Reading assignment
-1. [list1 (python-course.eu)](https://python-course.eu/python-tutorial/sequential-data-types.php) and [list2 (python-course.eu)](https://python-course.eu/python-tutorial/list-manipulation.php), detials on if statement could be found here [conditional_statements (python-course.eu)](https://python-course.eu/python-tutorial/conditional-statements.php). 
+  1. [list1 (python-course.eu)](https://python-course.eu/python-tutorial/sequential-data-types.php) and [list2 (python-course.eu)](https://python-course.eu/python-tutorial/list-manipulation.php), detials on if statement could be found here [conditional_statements (python-course.eu)](https://python-course.eu/python-tutorial/conditional-statements.php). 
 
 ### Lecture 5
 - We discussed functions [7_function.py](7_function.py) and ascii files [8_files.py](8_files.py)
 - Reading assignments:
-1. [Functions (python-course.eu)](https://python-course.eu/python-tutorial/functions.php).
-2. [files (python-course.eu)](https://python-course.eu/python-tutorial/file-management.php).
+  1. [Functions (python-course.eu)](https://python-course.eu/python-tutorial/functions.php).
+  2. [files (python-course.eu)](https://python-course.eu/python-tutorial/file-management.php).
 
 
