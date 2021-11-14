@@ -10,7 +10,8 @@
 - Reading assinment : 
 - [variables on python-course.eu](https://python-course.eu/python-tutorial/data-types-and-variables.php) 
 - [operators on python-course.eu](https://python-course.eu/python-tutorial/operators.php)
-- [why Python is the next wave in atmospheric data analysis](lectures/why_python_is_the_next_wave_in_earth_sciences_computing.pdf) and [MIT Lecture](https://www.greenteapress.com/thinkpython/thinkCSpy/html/chap02.html)
+- AMS bulletien [why Python is the next wave in atmospheric data analysis](lectures/why_python_is_the_next_wave_in_earth_sciences_computing.pdf)  
+- [MIT Lecture](https://www.greenteapress.com/thinkpython/thinkCSpy/html/chap02.html)
 ### Lecture 2
 - We discussed deep and shallow copy [3_deep_shallow_copy.py](lectures/3_deep_shallow_copy.py)
 - Details could be found here [3_shallow_and_deep_copy.pdf](lectures/3_shallow_and_deep_copy.pdf)
